@@ -1,6 +1,6 @@
 # Maintainer: Raphael Tannous <raphaeltannous at proton dot me>
 pkgname=pyprpaper
-pkgver=0.3.0
+pkgver=0.3.1
 pkgrel=1
 pkgdesc="Randomly change wallpaper for given monitor(s) in hyprpaper."
 arch=('x86_64')
@@ -22,7 +22,7 @@ source=(
 )
 
 sha256sums=(
-  '43cf7b7abe045e8a44eec97c2bbeb97e840e39f61dbfdf68afdf0ee163b54bdc'
+  'c76e8b60698136f24c6efc85a67e384df6122207dddc363b45be9a859571261f'
 )
 
 prepare() {
