@@ -1,6 +1,6 @@
 # Maintainer: Raphael Tannous <raphaeltannous at proton dot me>
 pkgname=pyprpaper
-pkgver=0.3.1
+pkgver=0.3.2
 pkgrel=1
 pkgdesc="Randomly change wallpaper for given monitor(s) in hyprpaper."
 arch=('x86_64')
