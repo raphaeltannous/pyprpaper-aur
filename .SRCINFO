@@ -1,7 +1,7 @@
 pkgbase = pyprpaper
 	pkgdesc = Randomly change wallpaper for given monitor(s) in hyprpaper.
 	pkgver = 0.3.2
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/rofe33/pyprpaper
 	arch = x86_64
 	license = GPL-3.0-only
