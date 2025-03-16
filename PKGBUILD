@@ -1,10 +1,10 @@
 # Maintainer: Raphael Tannous <raphaeltannous at proton dot me>
 pkgname=pyprpaper
 pkgver=0.3.2
-pkgrel=2
+pkgrel=3
 pkgdesc="Randomly change wallpaper for given monitor(s) in hyprpaper."
 arch=('x86_64')
-url="https://github.com/rofe33/pyprpaper"
+url="https://github.com/raphaeltannous/pyprpaper"
 license=('GPL-3.0-only')
 depends=(
   'python'
@@ -18,7 +18,7 @@ makedepends=(
 )
 
 source=(
-  "${pkgname}-${pkgver}.tar.gz::https://github.com/rofe33/pyprpaper/archive/refs/tags/v${pkgver}.tar.gz"
+  "${pkgname}-${pkgver}.tar.gz::https://github.com/raphaeltannous/pyprpaper/archive/refs/tags/v${pkgver}.tar.gz"
 )
 
 sha256sums=(
